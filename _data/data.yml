@@ -13,6 +13,7 @@ sidebar:
     avatar: /workspaces/CV-3/assets/images/image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+
     email: afelipe.diaz@javeriana.edu.co
     phone: 3013109367
     timezone: America/Cancun Timezone
