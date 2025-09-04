@@ -10,17 +10,18 @@ sidebar:
     # Profile information
     name: Alan Doe
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: /workspaces/CV-3/assets/images/image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Bogotá Timezone
+
+    email: afelipe.diaz@javeriana.edu.co
+    phone: 3013109367
+    timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: adiaz
     xing: alandoe
-    github: sharu725
+    github: AndresFelipeDzT
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -31,27 +32,27 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: French
-          level: Professional
+        - idiom: Ingles
+          level: Avanzado
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Francés
+          level: Básico
 
     interests:
-      title: Interests
+      title: Intereses y Hobbies
       info:
-        - item: Climbing
+        - item: Ping Pong
           link:
 
-        - item: Snowboarding
+        - item: Videojuegos
           link:
 
-        - item: Cooking
+        - item: Formula 1 y Fútbol
           link:
 
 career-profile:
@@ -66,22 +67,18 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ingeniero de Sistemas
+        university: Pontificia Universidad Javeriana
+        time: 2024 - 2029
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          Complete todas las materias
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Manejo de GitHub
+        university: Fundamentos
+        time: 2025 - 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          Aún aprendiendo
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
@@ -174,9 +171,8 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      He trabajado en proyectos para fácilitar la planeación de clases en universidades,
+      en el uso de bases de datos para rentas y en un par de minijuegos.
     assignments:
       - title: Velocity
         link: "#hook"
