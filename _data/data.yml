@@ -170,9 +170,8 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      He trabajado en proyectos para fácilitar la planeación de clases en universidades,
+      en el uso de bases de datos para rentas y en un par de minijuegos.
     assignments:
       - title: Velocity
         link: "#hook"
